@@ -15,3 +15,5 @@ serviceWorkerRegistration.register();
 // https://dev.to/rikurouvila/react-hook-for-showing-custom-add-to-home-screen-prompt-472c
 // https://create-react-app.dev/docs/making-a-progressive-web-app/
 // https://cra.link/PWA
+
+// https://pwa-tes.vercel.app/
